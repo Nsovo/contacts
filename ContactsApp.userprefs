@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C4DA02E6-9F24-4467-8EAD-4DD991FCB245}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactApp/Repositories/IContactRepository.cs">
+    <Files>
+      <File FileName="ContactApp/Global.asax" Line="1" Column="91" />
+      <File FileName="ContactApp/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="ContactApp/Controllers/ContactController.cs" Line="37" Column="14" />
+      <File FileName="ContactApp/Models/Contact.cs" Line="7" Column="5" />
+      <File FileName="ContactApp/Models/ContactsContext.cs" Line="1" Column="1" />
+      <File FileName="ContactApp/Repositories/ContactRepository.cs" Line="38" Column="1" />
+      <File FileName="ContactApp/Repositories/IContactRepository.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContactsApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

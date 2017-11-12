@@ -14,16 +14,10 @@ namespace ContactsApp.Controllers
         private readonly IContactRepository _contactRepository;
 
 
-        public ContactController()
-        {
-            _contactRepository = new ContactRepository();
-        }
+        public ContactController() => _contactRepository = new ContactRepository();
 
         // GET: api/Contact
-        public IQueryable<Contact> GetContacts()
-        {
-            return _contactRepository.GetContacts();
-        }
+        public IQueryable<Contact> GetContacts() => _contactRepository.GetContacts();
 
         // GET: api/Contact/5
         [ResponseType(typeof(Contact))]
